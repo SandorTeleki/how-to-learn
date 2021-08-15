@@ -25,8 +25,7 @@
 }
 
 .logo {
-  display: flex;
-  align-self: flex-end;
+  width: 183px;
 }
 
 .logo_place_header{
@@ -34,6 +33,7 @@
   top: 30px;
   left: 64px;
   z-index: 2;
+  height: 32px;
 }
 
 .header__title{
@@ -42,11 +42,10 @@
   font-weight: bold;
   max-width: 730px;
   display: flex;
-  position: relative;
   align-self: center;
-  left: 64px;
-  z-index: 4;
   margin: 0;
+  margin-left: 64px;
+  z-index: 4;
 }
 
 .header__subtitle{
@@ -111,7 +110,7 @@
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
-  min-width: 175px;
+  max-width: 175px;
   display: flex;
   position: relative;
   margin: 0;
@@ -124,6 +123,7 @@
   flex-direction: column;
   align-self: flex-end;
   min-width: 784px;
+  width: 80%;
 }
 
 .two-columns__paragraph {
@@ -237,6 +237,7 @@
   margin: 0;
   text-align: center;
   margin: 0 auto;
+  margin-top: 70px;
   position: relative;
   z-index: 2;
 }
@@ -253,7 +254,7 @@
   bottom: 50%;
 }
 
-.feynman-main-picture{
+.feynman__main-picture{
   width: 867px;
   height: 637px;
   position: absolute;
@@ -272,12 +273,14 @@
 .section-title_theme_dark {
   color: white;
   margin-top: 90px;
+  position: relative;
   z-index: 4;
 }
 
 .section-subtitle_theme_dark {
   color: white;
   margin-top: 20px;
+  position: relative;
   z-index: 3;
 }
 
@@ -293,12 +296,10 @@
 
 .table__heading_theme_dark {
   color: white;
+  margin-top: 80px;
 }
 
 .table__text_theme_dark {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
   color: white;
 }
 
@@ -308,10 +309,9 @@
   position: absolute;
   right: -210px;
   top: 0;
-  display: flex;
-  overflow: hidden;
   z-index: 1;
   background-image: url('../images/kaufman-triangle.svg');
+  background-size: 877px 877px;
 }
 
 /* Block 6 - Footer*/
@@ -321,7 +321,7 @@
   box-sizing: border-box;
   min-height: 350px;
   display: flex;
-  align-items: center;
+  padding: 60px 0 40px 0;
 }
 
 .footer__columns {
@@ -330,7 +330,6 @@
   min-height: 250px;
   width: 90%;
   margin: 0 auto;
-  top: 60px;
 }
 
 .footer__column {
@@ -341,6 +340,8 @@
   flex-basis: 711px;
   display: flex;
   position: relative;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .footer__column_content_info {
@@ -352,11 +353,7 @@
 }
 
 .logo_place_footer {
-  width: 183px;
   height: 35px;
-  position: absolute;
-  top: 0;
-  left: 0;
 }
 
 .footer__author {
@@ -365,8 +362,6 @@
   font-weight: normal;
   color: white;
   margin: 18px 0;
-  display: flex;
-  flex-direction: column-reverse;
 }
 
 .footer__column-heading {
