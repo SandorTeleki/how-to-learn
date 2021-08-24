@@ -5,4 +5,5 @@
 
 .resources__logo:hover {
   opacity: 50%;
+  transition-duration: .5s;
 }

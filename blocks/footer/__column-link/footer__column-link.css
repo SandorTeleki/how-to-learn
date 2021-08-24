@@ -5,4 +5,5 @@
 
 .footer__column-link:hover {
   opacity: 50%;
+  transition-duration: .5s;
 }
