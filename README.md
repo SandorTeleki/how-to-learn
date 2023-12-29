@@ -15,6 +15,8 @@
 ### Планы для проекта:
 На данный момент: отсуствуют.
 
+Страница на Github: https://sandorteleki.github.io/how-to-learn/
+
 Автор: Шандор Телеки
 &copy; 2021
 
@@ -35,6 +37,8 @@ Iframe was used to include Youtube videos in the page. Added simple JavaScript s
 
 ### Plans for the project:
 For the time being: none.
+
+Page is hosted through Github pages: https://sandorteleki.github.io/how-to-learn/
 
 Author: Sandor Teleki
 &copy; 2021
