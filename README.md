@@ -1,4 +1,4 @@
-_(English version below)_
+(English version below)
 
 # Научиться учиться
 
@@ -10,7 +10,7 @@ _(English version below)_
 
 
 ### Использованные технологии в проекте:
-В проекте используется iframe чтобы вложить Юутб видео
+В проекте используется iframe чтобы вложить Юутб видео. Добавил JavaScript чтобы обновлять год.
 
 ### Планы для проекта:
 На данный момент: отсуствуют.
@@ -19,10 +19,7 @@ _(English version below)_
 &copy; 2021
 
 
-
-***
-***
-***
+------------
 
 
 # Learn How to Study
@@ -34,7 +31,7 @@ _(English version below)_
 This project was created to teach readers on how to study and learn more effectively.
 
 ### Technologies used in this project:
-Iframe was used to include Youtube videos in the page.
+Iframe was used to include Youtube videos in the page. Added simple JavaScript script to update copyright year in the footer.
 
 ### Plans for the project:
 For the time being: none.
