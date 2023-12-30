@@ -14,7 +14,8 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) - добавлено позже чтобы показать год
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) 
+_(JavaScript добавлено позже чтобы показать год)_
 
 ### Планы для проекта:
 На данный момент: отсуствуют.
@@ -41,7 +42,8 @@ Iframe was used to include Youtube videos in the page. Added simple JavaScript s
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) - added later to update year
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) 
+_(JavaScript added later to update year)_
 
 ### Plans for the project:
 For the time being: none.
