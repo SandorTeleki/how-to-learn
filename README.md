@@ -20,10 +20,8 @@ _(JavaScript добавлено позже чтобы показать год)_
 ### Планы для проекта:
 На данный момент: отсуствуют.
 
-Страница на Github: https://sandorteleki.github.io/how-to-learn/
-
-Автор: Шандор Телеки
-&copy; 2021
+Страница на Github: https://sandorteleki.github.io/how-to-learn/  
+&copy; 2021 Шандор Телеки
 
 
 ------------
@@ -48,7 +46,6 @@ _(JavaScript added later to update year)_
 ### Plans for the project:
 For the time being: none.
 
-Page is hosted through Github pages: https://sandorteleki.github.io/how-to-learn/
+Page is hosted through Github pages: https://sandorteleki.github.io/how-to-learn/  
+&copy; 2021 Sandor Teleki
 
-Author: Sandor Teleki
-&copy; 2021
